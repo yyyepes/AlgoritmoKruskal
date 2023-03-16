@@ -1,1 +1,1 @@
-# AlgoritmoKruskal
+# AlgoritmoPrin

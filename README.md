@@ -1,1 +1,1 @@
-# AlgoritmoPrin
+# AlgoritmoPrim
